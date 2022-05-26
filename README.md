@@ -18,9 +18,9 @@ link to app: https://sksinghcodes.github.io/react-to-do-list-app/
 link to repository: https://github.com/sksinghcodes/react-to-do-list-app
 
 ## Using React function based components and hooks
-link to app: https://sksinghcodes.github.io/react-to-do-list-app/
+link to app: https://sksinghcodes.github.io/react-to-do-list-app-2/
 
-link to repository: https://github.com/sksinghcodes/react-to-do-list-app
+link to repository: https://github.com/sksinghcodes/react-to-do-list-app-2
 
 ## Using React and Redux (old pattern)
 Will be posted soon...
