@@ -23,7 +23,9 @@ link to app: https://sksinghcodes.github.io/react-to-do-list-app-2/
 link to repository: https://github.com/sksinghcodes/react-to-do-list-app-2
 
 ## Using React and Redux (old pattern)
-Will be posted soon...
+link to app: https://sksinghcodes.github.io/react-to-do-list-app-3/
+
+link to repository: https://github.com/sksinghcodes/react-to-do-list-app-3
 
 ## Using React and Redux Toolkit (new pattern)
 Will be posted soon...
