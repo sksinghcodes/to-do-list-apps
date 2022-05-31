@@ -32,7 +32,7 @@ link to app: https://sksinghcodes.github.io/react-to-do-list-app-4/
 
 link to repository: https://github.com/sksinghcodes/react-to-do-list-app-4
 
-## Using React class based components and Redux Toolkit (new pattern)
+## Using React class based components and Reduxjs Toolkit (new pattern)
 link to app: https://sksinghcodes.github.io/react-to-do-list-app-5/
 
 link to repository: https://github.com/sksinghcodes/react-to-do-list-app-5
